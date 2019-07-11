@@ -13,5 +13,4 @@ Construir um sistema como esse é algo complexo que envolve a análise de muitas
 
 Esse pacote contém diversas funções prontas, baseadas em algoritmos de Machine Learning, que realizam todo o trabalho de análise de portfólio,  simulam  cenários  e  calculam a  taxa  de  retorno  de  carteiras  de investimentos.
 
-No  script  em  R  deste  projeto,  comentado  linha  a  linha,  você  encontra  um procedimento  completo  de  análise  de  portfólio  e  cálculo  de  retorno  de investimento com uma carteira formada por ações de grandes empresas listas na bolsa de valores americana.Estude o script, leia a documentação e ajuste o modelo para utilização em seus próprios projetos. 
-Os gráficos estão sendo criados com o Plotly.
+No  script  em  R  deste  projeto,  comentado  linha  a  linha,  você  encontra  um procedimento  completo  de  análise  de  portfólio  e  cálculo  de  retorno  de investimento com uma carteira formada por ações de grandes empresas listas na bolsa de valores americana. Os gráficos estão sendo criados com o Plotly.
